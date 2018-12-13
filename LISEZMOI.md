@@ -1,4 +1,4 @@
 # promethee
 ah.
 
-Les bon fichiers sont prometheePlateforme et LandingPage.
+Les bon fichiers sont prometheePlateformev3 et LandingPagev3.
